@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Welcme to Flow of Github
+#Where there's a will,there's a Way
 Use the left arrow to go back!
 ###Hola Amigo.. 
 ##This is Great
